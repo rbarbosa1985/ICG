@@ -231,3 +231,8 @@
 1341006774 f:\downloads\codeblocks\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
+1662644675 source:c:\projetos\icg\icg\trabalho01\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
